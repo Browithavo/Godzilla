@@ -1,0 +1,30 @@
+h1 {
+text-align: center;
+color: white;
+font-family: 'Lexend Mega', sans-serif;
+font-size: 60px;
+}
+h2 {text-align: center;
+color: white;
+font-size: large;
+font-family: 'Roboto', sans-serif;
+font-weight: 400
+}
+p {
+    text-align: left;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+a {
+    background: #265301;
+    color: #CDFEAA;
+  }
+#Godzilla {  
+    display: block;  
+    margin-left: auto;  
+    margin-right: auto;  
+    border: 0px ridge rgb(35, 105, 255);  
+    padding: 5px;  
+    }  
+body {background-color: rgb(44, 44, 44);}
